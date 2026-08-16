@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-vh90kt.pagoimpuestovehiculos.top/sitemap.xml
